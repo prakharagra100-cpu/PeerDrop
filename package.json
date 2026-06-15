@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakharagra100-cpu/Peer-2-Peer-Drop.git"
+    "url": "git+https://github.com/prakharagra100-cpu/PeerDrop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/prakharagra100-cpu/Peer-2-Peer-Drop/issues"
+    "url": "https://github.com/prakharagra100-cpu/PeerDrop/issues"
   },
-  "homepage": "https://github.com/prakharagra100-cpu/Peer-2-Peer-Drop#readme",
+  "homepage": "https://github.com/prakharagra100-cpu/PeerDrop#readme",
   "devDependencies": {
     "eslint": "^10.4.1",
     "eslint-config-prettier": "^10.1.8",

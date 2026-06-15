@@ -5,5 +5,4 @@ node_modules/
 dist/
 build/
 coverage/
-.ai-context
 postman
