@@ -4,7 +4,7 @@ PeerDrop is a lightning-fast, highly secure, browser-to-browser Peer-to-Peer (P2
 <br>
 Webite Demonstration Video:https://drive.google.com/file/d/1hyGDWfTxbjUe4PTDPeR-VEyKWalqc43o/view?usp=share_link
 <br>
-deployed website link:https://peer-drop-nu.vercel.app/dashboard
+Deployed website link:https://peer-drop-nu.vercel.app/dashboard
 
 ## ✨ Core Features
 
